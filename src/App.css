@@ -1,0 +1,13 @@
+.cardmain {
+  color: rgb(37, 29, 120);
+  padding-top: 35px;
+  position: relative;
+  height: 500px;
+  width: 500px;
+  max-width: 100%;
+  text-align: center;
+}
+.pic {
+  height: 200px;
+  width: 250px;
+}
